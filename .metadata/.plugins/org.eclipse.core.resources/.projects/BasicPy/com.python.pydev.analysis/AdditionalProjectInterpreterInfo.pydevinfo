@@ -1,0 +1,49 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/vijaya/project/Python/.metadata/.plugins/org.eclipse.core.resources/.projects/BasicPy/com.python.pydev.analysis/v2_indexcache
+tuple|1532259593000000000|/Users/vijaya/project/Python/BasicPy/src/tuple.py
+FibonacciSeries|1532264096000000000|/Users/vijaya/project/Python/BasicPy/src/FibonacciSeries.py
+StringPy|1532257564000000000|/Users/vijaya/project/Python/BasicPy/StringPy.py
+com.__init__|1532255395000000000|/Users/vijaya/project/Python/BasicPy/src/com/__init__.py
+simplePrograms.AveNum|1532264284000000000|/Users/vijaya/project/Python/BasicPy/src/simplePrograms/AveNum.py
+com.Prac.__init__|1532255395000000000|/Users/vijaya/project/Python/BasicPy/src/com/Prac/__init__.py
+Fibonacci_2|1532264096000000000|/Users/vijaya/project/Python/BasicPy/src/Fibonacci_2.py
+ListEx|1532258604000000000|/Users/vijaya/project/Python/BasicPy/ListEx.py
+com.Prac.HelloWorld|1532255461000000000|/Users/vijaya/project/Python/BasicPy/src/com/Prac/HelloWorld.py
+-- END DISKCACHE
+-- START DICTIONARY
+15
+9=/Users/vijaya/project/Python/BasicPy/src/com/Prac/HelloWorld.py
+2=FibonacciSeries
+7=/Users/vijaya/project/Python/BasicPy/ListEx.py
+12=StringPy
+11=/Users/vijaya/project/Python/BasicPy/StringPy.py
+13=/Users/vijaya/project/Python/BasicPy/src/tuple.py
+6=Fibonacci_2
+15=MyClass
+14=tuple
+4=simplePrograms.AveNum
+3=/Users/vijaya/project/Python/BasicPy/src/simplePrograms/AveNum.py
+5=/Users/vijaya/project/Python/BasicPy/src/Fibonacci_2.py
+1=/Users/vijaya/project/Python/BasicPy/src/FibonacciSeries.py
+8=ListEx
+10=com.Prac.HelloWorld
+-- END DICTIONARY
+-- START TREE 1
+11
+a|1|a!1^6#1*19@
+avg|1|avg!3^2#5*34@
+b|1|b!1^7#1*19@
+c|1|c!1^11#2*19@
+fib|1|fib!5^6#5*50@
+lis|1|list!7^1#1*67@
+myc|1|MyClass!9^7#7*81@
+n|1|n!1^8#1*19@
+str|1|str!11^1#1*99@
+tin|2|tinytuple!13^7#1*115@tinylist!7^2#1*67@
+tup|1|tuple!13^6#1*115@
+-- END TREE
+-- START TREE 2
+1
+__i|1|__init__!15&9^13#9*82@
+-- END TREE
